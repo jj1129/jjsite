@@ -1,5 +1,5 @@
 # jjsite
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=0,2,2,5,30&text=JJ오신걸환경합니다.)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&fontSize=90&text=welcome&animation=fadeIn&descAlignY=51&descAlign=62)
 
 
 
