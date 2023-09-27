@@ -4,3 +4,4 @@
 
 
 ![jj1129's GitHub stats](https://github-readme-stats.vercel.app/api?username=jj1129&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jj1129&hide_progress=true)
